@@ -28,3 +28,12 @@ git config --global core.autocrlf true
 git config --global.core.safecrlf true
 ```
 
+## Git Commands
+
+Command | Function
+------- | --------
+```gitk``` | Opens the GUI for Git
+```git add```| 
+```git commit -m "message"```
+```git push```
+
