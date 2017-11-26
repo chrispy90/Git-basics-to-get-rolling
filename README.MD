@@ -47,8 +47,8 @@ Command | Function
 
 ## Online guides explaining Git
 
-*[GitHub Help Docs](https://help.github.com/)
-*[Pro Git book](https://git-scm.com/book/en/v2)
-*[Simple Git overview](http://rogerdudler.github.io/git-guide/)
-*[Git Immersion](http://gitimmersion.com/lab_01.html)
+* [GitHub Help Docs](https://help.github.com/)
+* [Pro Git book](https://git-scm.com/book/en/v2)
+* [Simple Git overview](http://rogerdudler.github.io/git-guide/)
+* [Git Immersion](http://gitimmersion.com/lab_01.html)
 
