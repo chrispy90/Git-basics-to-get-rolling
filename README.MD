@@ -38,7 +38,7 @@ Command | Function
 ```git clone```*path to repo* | Makes a copy of a remote repository on your local machine
 ```git pull``` | Update the local repository (same as running ```git fetch``` & then ```git merge```)
 ```git add``` *full name of file* | Add a file in the working directory to the index (stage)
-```git add * | Add all the files in the working directory to the index (stage)
+```git add *``` | Add all the files in the working directory to the index (stage)
 ```git commit -m "message"```| Moves the staged files to the head of the local repository
 ```git push```| Update the remote repo with your local repository
 ```git status``` | Notifies user if working directory has changes that have not been commited
