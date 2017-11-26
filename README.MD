@@ -34,7 +34,21 @@ git config --global.core.safecrlf true
 Command | Function
 ------- | --------
 ```gitk``` | Opens the GUI for Git
-```git add```| 
-```git commit -m "message"```|
-```git push```|
+```git init``` | Creates a local repository
+```git clone```*path to repo* | Makes a copy of a remote repository on your local machine
+```git pull``` | Update the local repository (same as running ```git fetch``` & then ```git merge```)
+```git add``` *full name of file* | Add a file in the working directory to the index (stage)
+```git add * | Add all the files in the working directory to the index (stage)
+```git commit -m "message"```| Moves the staged files to the head of the local repository
+```git push```| Update the remote repo with your local repository
+```git status``` | Notifies user if working directory has changes that have not been commited
+```git diff``` | Look at the differences between two branchs
+```git log``` | Shows you the commit history for the repository
+
+## Online guides explaining Git
+
+*[GitHub Help Docs](https://help.github.com/)
+*[Pro Git book](https://git-scm.com/book/en/v2)
+*[Simple Git overview](http://rogerdudler.github.io/git-guide/)
+*[Git Immersion](http://gitimmersion.com/lab_01.html)
 
