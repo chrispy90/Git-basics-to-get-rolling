@@ -13,6 +13,7 @@ Command | Function
 ```mv```| Move/ rename a file
 ```rm```| Deletes a file
 ```echo Hello World >> "hello.txt"```| Creates a text file and pipes your text into it
+*some command* ``` \| clip``` | Copies the output of the preceeding tool to the clipboard
 
 
 ## Basic commands to make things run smoothly  
@@ -34,6 +35,6 @@ Command | Function
 ------- | --------
 ```gitk``` | Opens the GUI for Git
 ```git add```| 
-```git commit -m "message"```
-```git push```
+```git commit -m "message"```|
+```git push```|
 
